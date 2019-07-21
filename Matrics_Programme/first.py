@@ -4,8 +4,8 @@
 
 # break 
 
-import maths
-import matrics 
+from math import sqrt
+from Matrics_Programme.matrics import *
 print(__name__)
 
 # def fuction1():
@@ -15,8 +15,8 @@ print(__name__)
 # # fuction1()
 # msg = maths.abc()
 # print(msg)
-matrics1 = matrics.createMatrics()
+matrics1 = createMatrics()
 print("do you want to see your matrics if yes then press 0")
 option = int(input())
 if option == 0:
-    matrics.ViewMatrics(matrics1)
+    ViewMatrics(matrics1)
