@@ -7,7 +7,7 @@ temp = 4
 temp = age/temp
 print(temp)
 num = 2
-num += age           #again rewrite the num variable 
+num += age           #again rewrite the num variable "num = num + age"
 print(num)
 
 num *= age

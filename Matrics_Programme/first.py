@@ -5,7 +5,7 @@
 # break 
 
 from math import sqrt
-from Matrics_Programme.matrics import *
+from matrics import *
 print(__name__)
 
 # def fuction1():

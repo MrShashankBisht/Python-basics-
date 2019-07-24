@@ -21,3 +21,15 @@ print(type(300+1))
 print(type(40.89))
 print(type(False))
 
+print( ''' sdfsdfsdaf
+sadfdsfdsaf
+sadf
+sdf
+                                       cls
+                                       sdafsdf
+sdf
+sdfdsfdsfdsfsadfasdfsdf
+sadfsadfsdafsdafsadfsdafdsfdsfsdfdsf ''')
+
+
+
