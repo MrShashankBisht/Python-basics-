@@ -3,7 +3,7 @@ print( 'a' == 'abc')
 print( 'A' != 'a')
 print( 'abc' == 'ABC')
 
-print( chr(65))
+print( chr(40))
 print(chr(97))
 
 # alternative method to find the character int value 
