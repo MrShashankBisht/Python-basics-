@@ -23,8 +23,14 @@ for temp in tuple3:
 
 print(tuple2)
 del tuple2
+# print(tuple2)
 
 print(max(tuple1))
 print(min(tuple1))
 print(tuple3.index(3))
 print(tuple3.count(1))
+print(len(tuple3))
+testtup=(1,2,3,4,5,6,7,8,9)
+for i in testtup[-1:-(len(testtup)+1):-1]:
+    print(i)
+
